@@ -1,0 +1,1 @@
+{"id":"2hhxpbtholcnwjabufxrgvpnsw27nhny7tpvlh6czsq3oivf63ha","stamp":"2024-07-21T07:38:54.680961373Z","payload":{"motion":{"open":null,"close":{"id":"5","type":"proposal","policy":"pmp-proposal","decision":"accept","receipts":[{"account":"pmp+matching","type":"bounty","amount":{"asset":"plural","quantity":0}}]},"cancel":null}}}
